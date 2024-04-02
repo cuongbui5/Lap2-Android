@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lap2</string>
+    <string name="h_t_n">Họ tên</string>
+    <string name="ch_n_nh">CHỌN ẢNH</string>
+    <string name="th_m_li_n_h">THÊM LIÊN HỆ</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="id">id</string>
+</resources>
